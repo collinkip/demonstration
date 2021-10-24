@@ -1,2 +1,2 @@
-#my app
+%myapp
 login credentials
